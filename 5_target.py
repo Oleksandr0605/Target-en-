@@ -13,6 +13,8 @@ def generate_grid() -> List[List[str]]:
             temp.append(chr(random.randint(65, 90)))
         ret_lst.append(temp)
     return ret_lst
+    # d
+    # d
 
 
 
